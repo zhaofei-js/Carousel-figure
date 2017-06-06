@@ -1,0 +1,6 @@
+[
+    {"src":"images1/banner1.jpg"},
+    {"src":"images1/banner2.jpg"},
+    {"src":"images1/banner3.jpg"},
+    {"src":"images1/banner4.jpg"}
+]
